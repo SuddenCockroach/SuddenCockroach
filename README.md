@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Jojoemeka29@gmail.com**
 
-- ⚡ Fun fact,   **  I'm sorta fun**
+- ⚡ Fun fact,   **  I'm sorta friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
