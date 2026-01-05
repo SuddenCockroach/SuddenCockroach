@@ -1,8 +1,8 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047668fb-fcf5-4f67-8225-d13cc4435f67/dbip952-3d173e88-e826-47b5-9e96-bb249498e58a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8wNDc2NjhmYi1mY2Y1LTRmNjctODIyNS1kMTNjYzQ0MzVmNjcvZGJpcDk1Mi0zZDE3M2U4OC1lODI2LTQ3YjUtOWU5Ni1iYjI0OTQ5OGU1OGEuZ2lmIn1dXX0.r5whwua734ovLp9UnPn2T8pkJgUZjO_iG5Sae3Eeu3M)](https://JojoEmeka.io)
 
 
-<h1 align="center">Hi 👋❤️, I'm JoJo</h1>
-<h3 align="center">Cyber Security Engineer 🛡️| Enthusiast 🤩</h3>
+<h1 align="center">Hi , I'm JoJo</h1>
+<h3 align="center">System Admin </h3>
 <img align="right" alt="Pentesting" width"400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d27be045738323.583bccb1b28b1.gif">
 
 
