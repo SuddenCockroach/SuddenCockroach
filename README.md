@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Java, React Native**
 
-- 👯 I’m looking to collaborate on **Web Apps, Mobile Apps, Websites**
+- 👯 I’m looking to collaborate on **Network Infrastructure, Mobile Apps, Websites**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Servers**
 
 - 📫 How to reach me **Jojoemeka29@gmail.com**
 
-- ⚡ Fun fact,   **  I'm sorta friendly**
+- ⚡ Fun fact,   **  I'm friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
