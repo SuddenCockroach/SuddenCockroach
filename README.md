@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi , I'm JoJo</h1>
-<h3 align="center">System Admin </h3>
+<h3 align="center">Systems Administrator </h3>
 <img align="right" alt="Pentesting" width"400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d27be045738323.583bccb1b28b1.gif">
 
 
